@@ -2,7 +2,7 @@
 
 Submitted by: **Hawo**
 
-Estimated time spent: **#** hours spent in total
+Estimated time spent: **7** hours spent in total
 
 Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
@@ -40,7 +40,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`file:///Users/hawoissa/Documents/Project%201/Flixster-Website/ezgif.com-gif-maker.gif`
+`<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/0d98cd9a94cc4eccac06f1198e446032" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
 
 ### Reflection
 
