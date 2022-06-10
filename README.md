@@ -40,7 +40,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-Link to video. I was having trouble with making the video embed. Sorry for the inconvenience.
+
 (https://www.loom.com/share/0d98cd9a94cc4eccac06f1198e446032)
 
 ### Reflection
