@@ -40,7 +40,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-`<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/0d98cd9a94cc4eccac06f1198e446032" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>`
+Link to video. I was having trouble with making the video embed. Sorry for the inconvenience.
+(https://www.loom.com/share/0d98cd9a94cc4eccac06f1198e446032)
 
 ### Reflection
 
