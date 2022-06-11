@@ -56,7 +56,7 @@ If I did have more time, I would try to complete all stretch features especially
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
-The HTML went well. The CSS did not go as planned, but thankfully the TAs, Rebecca and Snighda, were there to help me find the tiny mistakes which were making everything go wrong. The JavaScript was the hardest but Labs 2 and 3 helped tremoundously and so did Doug. My peers implemented their own personal touches to their websites to make it look personalized. I will do the same next time because my website is pretty basic.
+The HTML went well. The CSS did not go as planned, but thankfully the TAs, Rebecca and Snigdha, were there to help me find the tiny mistakes which were making everything go wrong. The JavaScript was the hardest but Labs 2 and 3 helped tremoundously and so did Doug. My peers implemented their own personal touches to their websites to make it look personalized. I will do the same next time because my website is pretty basic.
 
 ### Open-source libraries used
 
