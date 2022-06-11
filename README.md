@@ -43,13 +43,6 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 <<<<<<< HEAD
 <iframe src="https://giphy.com/embed/nhP16qQue8T4msnbwo" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nhP16qQue8T4msnbwo">via GIPHY</a></p>
 =======
-I was having issues making the video embeded.
-(https://www.loom.com/share/0d98cd9a94cc4eccac06f1198e446032)
-
-`https://imgur.com/a/QHA1Pfc#psJTI6H`
-
-![Alt Text](https://media.giphy.com/media/nhP16qQue8T4msnbwo/giphy.gif)
->>>>>>> refs/remotes/origin/main
 
 ### Reflection
 
