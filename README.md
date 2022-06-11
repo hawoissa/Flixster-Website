@@ -32,15 +32,15 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 #### STRETCH FEATURES
 
-- [ ] Deploy website using GitHub Pages. 
-- [ ] Allow user to view more details about a movie within a popup.
-- [ ] Improve the user experience through CSS & animation.
+- [x] Deploy website using GitHub Pages. 
+- [x] Allow user to view more details about a movie within a popup.
+- [x] Improve the user experience through CSS & animation.
 - [ ] Allow movie video trailers to be played using [embedded YouTube](https://support.google.com/youtube/answer/171780?hl=en)
 - [ ] Implement anything else that you can get done to improve the app functionality!
 
 ### Walkthrough Video
 
-`file:///Users/hawoissa/Documents/Project%201/Flixster-Website/ezgif.com-gif-maker.gif`
+<iframe src="https://giphy.com/embed/nhP16qQue8T4msnbwo" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nhP16qQue8T4msnbwo">via GIPHY</a></p>
 
 ### Reflection
 

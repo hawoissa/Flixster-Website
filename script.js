@@ -12,6 +12,9 @@ const loadMoreEl = document.querySelector("#load-more-movies-btn");
 const closeEl = document.querySelector("#close-search-btn");
 const nowPlayingEl = document.querySelector(".nowplaying");
 const searchInputEl = document.querySelector("#search-input");
+const popupEl = document.querySelector(".popupdiv");
+//const scrollBtn = document.querySelector("scroll-to-top-btn");
+
 // SAVE SEARCH WORD 
 let searchWord = "";
 
@@ -19,6 +22,7 @@ let searchWord = "";
 form.addEventListener("submit", getResults);
 loadMoreEl.addEventListener("click", loadMore);
 closeEl.addEventListener("click", initialLoad);
+//scrollBtn.addEventListener("click", scrollToTop);
 
 // initial Screen with now playing movies
 initialLoad();
@@ -27,6 +31,7 @@ initialLoad();
 async function initialLoad() {
    searchInputEl.value = "";
    closeEl.style.display = "none";
+   //scrollBtn.style.display="none";
    loadMoreEl.style.display = "none";
    nowPlayingEl.style.display = "block";
    movieGrid.innerHTML = "";
@@ -66,7 +71,7 @@ function generateResults(moviedata) {
          pic = "https://image.tmdb.org/t/p/w500/" + result.poster_path;
       }
       movieGrid.innerHTML += `
-         <div class="movie-card" >
+         <div class="movie-card" onclick="learnMoreOpen(${result.id})" >
             <img class="movie-poster" src="${pic}" ></img> 
             <div class="rating">
                <img class="star" src="star.png"></img>
@@ -75,11 +80,6 @@ function generateResults(moviedata) {
             <h4 class="movie-title">${result.title}</h4>
          </div>
       `
-      //onclick="learnMore(${result.id})"
-      // learnMoreEl.innerHTML += `
-      //    <h4 class="movie-title">${result.title}</h4>
-      //    <p> hellloooooooooooooooooooo</p>
-      // `
    })
 }
 
@@ -89,10 +89,30 @@ function loadMore(evt) {
    getResults(evt);
 }
 
-// // //POPUP TO LEARN MORE
-// function learnMore(movie_id) {
-//    learnMoreEl.style.display = "block";
-//    console.log("it works"); 
-// }
+async function learnMoreOpen(id) {
+   var response = await fetch(`https://api.themoviedb.org/3/movie/${id}?api_key=${api_key}`);
+   var responseData = await response.json();
+   let element = document.getElementById("popupdiv");
+   element.innerHTML += `
+      <div class="popup">
+         <div onclick="learnMoreClose()" class="CloseIcon">&#10006;</div>
+         <img class="popupimg" src="https://image.tmdb.org/t/p/w500/${responseData.backdrop_path}" ></img>
+         <div class="movie-titles">
+            <h3>${responseData.title} |</h3>
+            <img class="starTitle" src="star.png"></img>
+            <h3>${responseData.vote_average} | </h3>
+            <h3 class="date"> ${responseData.release_date}</h3>
+         </div>
+         <p>${responseData.overview}</p>
+      </div>   
+   `
+   element.style.display = "block";
+ }
+
+ function learnMoreClose() {
+   let element = document.getElementById("popupdiv");
+   element.innerHTML = "";
+   element.style.display = "none";
+ }
 
 

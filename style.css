@@ -1,5 +1,5 @@
 * {
-   background-color: rgb(75, 73, 73);
+   background-color: rgb(121, 121, 121);
    color: white;
    margin: 0;
 }
@@ -62,7 +62,14 @@ img {
 .movie-card {
    padding-bottom: 10px;
    max-width: 270px;
+   
 }
+
+.movie-card:hover {
+   opacity: 0.5;
+   
+}
+
 
 .movie-votes {
    font-weight: lighter;
@@ -93,29 +100,62 @@ img {
    font-size: 30px;
 }
 
- /* #learnmore {
-   background-color: white;
-   margin-top: 10px;
-   color: black;
-}   */
-
-/*#learnmorecontainer {
-   display: flex;
-   justify-content: center;
-   align-items: center;
+.popupdiv {
    position: fixed;
+   display: none;
    top: 0;
-   width: 100vw;
-   height: 100vh; 
-}*/
+   right: 0;
+   /* bottom: 0; */
+   left: 0;
+ }
 
-/* #learnmorediv {
-   display: flex;
+ .popup {
    position: fixed;
-   justify-content: center;
-   padding: 30px 50px;
-   width: 500px;  
+   width: 50%;
+   top: 25%;
+   left: 25%;
    text-align: center;
-}  */
+   padding-top: 10px;
+   padding-left: 30px;
+   padding-right: 30px;
+   padding-bottom: 20px;   
+   min-height: 400px;
+ }
+
+ .popup h3 {
+   font-size: 15px;
+   height: 50px;
+   line-height: 50px;
+   
+ }
+
+ .movie-titles {
+    display: flex;
+    justify-content: center;
+ }
+
+ .date {
+    padding-left: 5px;
+ }
+
+.movie-titles > img {
+   height: 15px;
+   width: 15px;
+   padding-top: 16px;
+   padding-right: 5px;
+   padding-left: 5px;
+}
+
+ .CloseIcon{
+   cursor: pointer;
+   display: flex;
+   justify-content: center;
+   padding-bottom: 10px;
+ }
+
+ .popupimg {
+    width: 400px;
+    height: 220px;
+ }
 
 
