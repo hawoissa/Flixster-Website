@@ -44,6 +44,7 @@ I was having issues making the video embeded.
 (https://www.loom.com/share/0d98cd9a94cc4eccac06f1198e446032)
 
 `https://imgur.com/a/QHA1Pfc#psJTI6H`
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ### Reflection
 
