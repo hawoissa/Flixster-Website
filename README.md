@@ -45,6 +45,12 @@ I was having issues making the video embeded.
 
 https://recordit.co/lYbgaEU6UP
 
+`https://recordit.co/lYbgaEU6UP`
+
+'https://recordit.co/lYbgaEU6UP'
+
+"https://recordit.co/lYbgaEU6UP"
+
 ### Reflection
 
 * Did the topics discussed in your labs prepare you to complete the assignment? Be specific, which features in your weekly assignment did you feel unprepared to complete?
