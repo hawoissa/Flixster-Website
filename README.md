@@ -40,11 +40,10 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 
 ### Walkthrough Video
 
-<iframe src="https://giphy.com/embed/nhP16qQue8T4msnbwo" width="480" height="263" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/nhP16qQue8T4msnbwo">via GIPHY</a></p>
+<p>
+  <img align="right" src="" width="500" height="320" />
+</p>
 
-<div style="position: relative; padding-bottom: 62.5%; height: 0;"><iframe src="https://www.loom.com/embed/0d98cd9a94cc4eccac06f1198e446032" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lIAzE0fxxg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Reflection
 
