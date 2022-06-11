@@ -41,7 +41,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 ### Walkthrough Video
 
 <p>
-  <img align="center" src="https://github.com/hawoissa/Flixster-Website/blob/main/ezgif.com-gif-maker.gif" width="600" height="420" />
+  <img align="center" src="https://github.com/hawoissa/Flixster-Website/blob/main/3ezgif.com-gif-maker.gif" width="600" height="420" />
 </p>
 
 ### Reflection
