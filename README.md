@@ -43,7 +43,7 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 I was having issues making the video embeded.
 (https://www.loom.com/share/0d98cd9a94cc4eccac06f1198e446032)
 
-`https://recordit.co/lYbgaEU6UP`
+'https://recordit.co/lYbgaEU6UP'
 
 ### Reflection
 
