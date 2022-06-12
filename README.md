@@ -51,8 +51,8 @@ Deployed Application (optional): [Flixster Deployed Site](ADD_LINK_HERE)
 I felt the topics, and more importantly code from the labs, helped me complete the assignments. The only topic I did not feel prepared to complete was the css option. Despite Lab 1, I still very much struggle with css but I understand it is up to me to learn more.
 
 * If you had more time, what would you have done differently? Would you have added additional features? Changed the way your project responded to a particular event, etc.
-  
-If I did have more time, I would try to complete all stretch features especially the popup feature that will tell you more about the movie. I wanted to implement the movie-trailer button as well but could not find the url for each movie button. I will probably implement these features during this weekend when I'm free.
+
+I wanted to implement the movie-trailer button but could not find the url for each movie button. I will probably implement this feature during this weekend when I'm free.
 
 * Reflect on your project demo, what went well? Were there things that maybe didn't go as planned? Did you notice something that your peer did that you would like to try next time?
 
